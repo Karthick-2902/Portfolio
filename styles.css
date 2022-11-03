@@ -286,7 +286,7 @@ h3.my-proffesion
     position: relative;
     
 }
-.home-img::after{
+/*.home-img::after{
     content: '';
     position: absolute;
     height: 80px;
@@ -305,10 +305,10 @@ h3.my-proffesion
     border-left: 10px solid var(--skin-color);
     right: -20px;
     bottom: -40px;
-}
+}*/
 .home .home-img img{
     margin: auto;
-    border-radius: 5px;
+    border-radius: 200px;
     height: 400px;
 }
 /*ABOUT*/
